@@ -1,2 +1,2 @@
 # Note-Taker
-A note-taking app using express and deployed to Heroku.
+An application to write, save, and delete notes. Express is used as the backend.
