@@ -7,11 +7,11 @@
 An application to write, save, and delete notes using express.
 
 ## Table of Contents
-- [Code Utilized:](#code-utilized:)
-- [What to Expect:](#what-to-expect:)
-- [Rendered Website:](#rendered-website:)
-- [License:](#license:)
-- [Lessons Learned:](#lessons-learned:)
+- [Code Utilized](#code-utilized:)
+- [What to Expect](#what-to-expect:)
+- [Rendered Website](#rendered-website:)
+- [License](#license:)
+- [Lessons Learned](#lessons-learned:)
 
 ## Code Utilized
 
