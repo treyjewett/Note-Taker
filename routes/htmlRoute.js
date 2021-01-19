@@ -1,8 +1,8 @@
-let noteData = require('../db/db.json');
+// Dependencies
 const path = require('path');
 
 module.exports = function(app) {
-    // This path will send the 
+    
     app.get('/notes', function(req, res) {
         res.sendFile(path.join(__dirname, '../public/notes.html'));
     });
