@@ -15,7 +15,7 @@ An application to write, save, and delete notes using express.
 
 ## Code Utilized
 
-This application was made us9ing JavaScript, HTML, and CSS.
+This application was made using JavaScript, HTML, and CSS.
 
 ## What to Expect
 
